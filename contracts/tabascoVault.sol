@@ -22,6 +22,7 @@ contract TabascoVault {
         uint256 amount;
         uint256 startTime;
         uint256 endTime;
+        uint256 strikePrice;
         bool withdrawan;
         bool deposited;
     }
